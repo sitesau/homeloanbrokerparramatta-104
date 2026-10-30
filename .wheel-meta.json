@@ -1,0 +1,22 @@
+{
+  "wheel_id": 548,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerparramatta-104",
+  "project": "mortgage-broker-parramatta-pros-and-cons-820f3d82e426d9ef951",
+  "parent_t1_ref": "homeloanbrokerparramatta-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerparramatta.com.au",
+  "primary_kw": "mortgage broker parramatta pros and cons",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/mortgage-broker-parramatta-pros-and-cons-820f3d82e426d9ef951/",
+  "tier": "T2",
+  "writeback_nonce": "b9d6afd2c845f487",
+  "links": [
+    {
+      "target_url": "http://mortgage-broker-parramatta-common-mistakes-5089c1b653320500c3ac.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "mortgage broker parramatta common mistakes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
